@@ -1,4 +1,4 @@
-# Terraform: AWS VPC + Web Server (Beginner)
+# Terraform: AWS VPC + Web Server 
 
 Provisions a VPC, public subnet, Internet Gateway, route table, security group, and an EC2 web server (nginx) on AWS using Terraform. The same infrastructure can be created, changed, and destroyed with a few commands.
 
